@@ -1,0 +1,17 @@
+{
+  "name": "etcd_ensure_server_env",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ensure.js",
+  "dependencies": {
+    "bluebird": "^3.3.4",
+    "express": "^4.13.4",
+    "node-etcd": "^4.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
